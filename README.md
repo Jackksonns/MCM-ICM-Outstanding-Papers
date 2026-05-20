@@ -1,6 +1,9 @@
 # MCM-ICM-Outstanding-Papers
 
-[Profile](https://github.com/Jackksonns) | ![Stars](https://img.shields.io/github/stars/Jackksonns/MCM-ICM-Outstanding-Papers) | ![Forks](https://img.shields.io/github/forks/Jackksonns/MCM-ICM-Outstanding-Papers) | [中文 (Chinese)](README_zh.md)
+[Profile](https://github.com/Jackksonns) |
+![Stars](https://img.shields.io/github/stars/Jackksonns/MCM-ICM-Outstanding-Papers.svg?style=social) |
+![Forks](https://img.shields.io/github/forks/Jackksonns/MCM-ICM-Outstanding-Papers.svg?style=social) |
+[中文 (Chinese)](README_zh.md)
  
 A comprehensive collection of Outstanding (O-Award) papers from the Mathematical Contest in Modeling (MCM) and Interdisciplinary Contest in Modeling (ICM), spanning from 2013 to 2025.
 
