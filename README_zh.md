@@ -1,6 +1,9 @@
 # MCM-ICM-Outstanding-Papers (美赛O奖论文集)
 
-[个人主页](https://github.com/Jackksonns) | ![Stars](https://img.shields.io/github/stars/Jackksonns/MCM-ICM-Outstanding-Papers) | ![Forks](https://img.shields.io/github/forks/Jackksonns/MCM-ICM-Outstanding-Papers) | [English](README.md)
+[个人主页](https://github.com/Jackksonns) |
+![Stars](https://img.shields.io/github/stars/Jackksonns/MCM-ICM-Outstanding-Papers.svg?style=social) |
+![Forks](https://img.shields.io/github/forks/Jackksonns/MCM-ICM-Outstanding-Papers.svg?style=social) |
+[English](README.md)
 
 本仓库收集了 2013 年至 2025 年美国大学生数学建模竞赛 (MCM/ICM) 的 Outstanding (O奖) 优秀论文。
 
